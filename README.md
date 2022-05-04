@@ -2,7 +2,8 @@
 <br />
 <p align="center">
 
-  <h1 align="center">Deep Learning (CMPSCI 5390) - Spring 2022 - Main Project</h1>
+  <h1 align="center">Deep Learning (CMPSCI 5390) - Spring 2022</h1>
+  <h1 align="center">Main Project</h1>
   <h2 align="left">by Brett Huffman</h2>
 
   <p align="left">

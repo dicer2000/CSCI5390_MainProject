@@ -11,3 +11,17 @@
     <br />
   </p>
 </p>
+
+<!-- LICENSE -->
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+
+
+<!-- CONTACT -->
+## Contact
+
+Brett Huffman
+
+Project Link: [https://github.com/dicer2000/CSCI5390_MainProject](https://github.com/dicer2000/CSCI5390_MainProject)
